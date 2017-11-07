@@ -1,4 +1,4 @@
-# yoda-bot
+# random-img-bot
 Discord bot who retrieves a random Image from an imgur Album
 
 # config
