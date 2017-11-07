@@ -1,0 +1,14 @@
+{
+  "name": "yoda-bot",
+  "version": "1.0.0-alpha",
+  "description": "YodaBot",
+  "main": "app.js",
+  "author": "Matheus Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "express": "^4.16.2",
+    "imgur": "^0.2.1",
+    "lodash": "^4.17.4"
+  }
+}
